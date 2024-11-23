@@ -1,5 +1,0 @@
-
-#contenedor{
-    display: grid;
-    grid-template-columns:repeat(8,12.5%);
-}
